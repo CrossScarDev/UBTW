@@ -1,6 +1,6 @@
-nub/node_modules/
-nub/.DS_Store
-nub/thumbs.db
-nub/.env
-nub/*.log
-nub/.vscode/
+nodeunblocker/node_modules/
+nodeunblocker/.DS_Store
+nodeunblocker/thumbs.db
+nodeunblocker/.env
+nodeunblocker/*.log
+nodeunblocker/.vscode/
