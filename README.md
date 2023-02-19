@@ -1,5 +1,5 @@
-# UBTW2
+# UBTW
 
-UnBlockTheWeb 2.0.
+UnBlockTheWeb.
 
 This project unblocks websites on my school chromebook.
