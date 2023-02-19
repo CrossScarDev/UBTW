@@ -1,0 +1,6 @@
+nub/node_modules/
+nub/.DS_Store
+nub/thumbs.db
+nub/.env
+nub/*.log
+nub/.vscode/
