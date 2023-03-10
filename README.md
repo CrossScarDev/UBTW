@@ -4,6 +4,8 @@ Un-Block The World.
 
 This project unblocks websites on my school chromebook.
 
+For information on how UBTW works please visit [this](https://montclair-reads.github.io/articles/ubtw/).
+
 Step 1 Fork:
 
 Make sure you have a [GitHub](https://github.com) account before you do anything else.
