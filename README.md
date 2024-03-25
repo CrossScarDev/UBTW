@@ -1,5 +1,8 @@
 # UBTW
 
+## UBTW2 has been released!
+## https://github.com/CommanderGL/UBTW2
+
 Un-Block The World.
 
 This project unblocks websites on my school chromebook.
